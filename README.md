@@ -17,13 +17,13 @@
 - Program harus menampilkan struk pembelian.
 
 ## kode program 
-![Alt text](gambar/image.png)
+![Alt text](Gambar/image.png)
 
 ## Output program
 
 ### Masukan menu
-![Alt text](gambar/image-1.png)
+![Alt text](Gambar/image-1.png)
 
 ### Mencetak struk
-![Alt text](gambar/image-2.png)
+![Alt text](Gambar/image-2.png)
  
