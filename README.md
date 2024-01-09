@@ -25,5 +25,5 @@
 ![Alt text](Gambar/image-1.png)
 
 ### Mencetak struk
-![Alt text](Gambar/image-2.png)
+![Alt text](Gambar/5e5164e0-41a0-4d9b-b29a-12f92cd25396.jpeg)
  
